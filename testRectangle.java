@@ -1,3 +1,6 @@
+/*example of test rectangle */
+
+
 import java.util.Scanner;
 class TestReactangle
 {
